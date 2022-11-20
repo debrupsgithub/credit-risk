@@ -14,10 +14,6 @@ Thus, in order to prevent losses, a proper **Credit Risk Management** is a must.
 
 In addition, due to COVID-19, companies will need to strengthen their Credit Risk Management. The Fed has estimated that pandemic-related loan losses for big US banks could reach **\$700 billion** in a worst-case scenario (“double-dip” or W-shaped recession), pushing banks close to their capital minimums.
 
-PS 1: All the references are stated at the end of this README.
-
-PS 2: You can find useful information at **section 1** of my [notebook](https://github.com/brunokatekawa/credit_risk/blob/master/Credit_Risk.ipynb).
-
 <br>
 
 # 2.0 The challenges
