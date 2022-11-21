@@ -36,7 +36,7 @@ In this project, I managed to address **challenges B, D and E** by developing a 
 
 ![](img/demo_video.gif)
 
-Check it live here: https://credit-risk-bk.herokuapp.com/
+
 
 **OBS: It may take a while to load the app, because I'm using the free tier of Heroku and in this tier app hibernate after 30 min of inactivity.**
 
