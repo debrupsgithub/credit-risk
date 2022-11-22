@@ -30,7 +30,7 @@ In addition, due to COVID-19, companies will need to strengthen their Credit Ris
 
 <br>
 
-## 3.1 What drove the solution
+## 3 What drove the solution
 
 ### 3.1.1 Exploratory Data Analysis
 
