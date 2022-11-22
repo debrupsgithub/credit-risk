@@ -30,18 +30,6 @@ In addition, due to COVID-19, companies will need to strengthen their Credit Ris
 
 <br>
 
-# 3.0 The solution
-
-In this project, I managed to address **challenges B, D and E** by developing a credit risk model that intakes a portfolio of potential customers (.csv file), builds a strategy table and calculates the total expected loss, for example, if we assume that the exposure is the full value of the loan, and the loss given default is 100%. This means that a default on each loan is a loss of the entire amount.
-
-![](img/demo_video.gif)
-
-
-
-**OBS: It may take a while to load the app, because I'm using the free tier of Heroku and in this tier app hibernate after 30 min of inactivity.**
-
-<br>
-
 ## 3.1 What drove the solution
 
 ### 3.1.1 Exploratory Data Analysis
